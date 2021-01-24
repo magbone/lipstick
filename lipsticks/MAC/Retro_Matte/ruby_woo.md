@@ -1,3 +1,7 @@
-| 名称 | 生产日期 | 色号 | rgb | 图片链接|
-| ---- | -------- | ---- | --- | ------- |
-| MAC RUBY WOO |  null | 复古哑光正红| 116,26,40 | [链接](https://www.xiaohongshu.com/discovery/item/5a3b06431b7d651365c16836) |
+| 名称 | 生产日期 | 色号 | rgb |
+| ---- | -------- | ---- | --- |
+| MAC Rudy Woo|  null | 复古哑光正红| 116,26,40 |
+
+图片
+
+![图片](./MAC_Ruby_Woo.jpg)

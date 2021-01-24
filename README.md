@@ -8,8 +8,9 @@
 
 例如
 >
->  | 名称 | 生产日期 | 色号 | rgb| 图片链接 |
->  | ---- | ------- | ----- | ----- | ----- |
->  | xxxxx | xxxxxxx | xxxxx | xxxxx | xxxxx |
+>  | 名称 | 生产日期 | 色号 | rgb|
+>  | ---- | ------- | ----- | ----- | 
+>  | xxxxx | xxxxxxx | xxxxx | xxxxx | 
+下接图片
 
 <strong>注意</strong>：rgb不一定要准确。也可以在下面写一段评测哦^-^
